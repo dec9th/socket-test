@@ -38,6 +38,6 @@ aaaa Please enter the message:
 ```
 
 # Reference 
-https://www.thegeekstuff.com/2011/12/c-socket-programming/
 
+https://github.com/ruchirsharma1993/Chat-application-in-c-using-Socket-programming
   
